@@ -25,7 +25,8 @@
     "strict-mode":"^1.1.2"
   },
   "engines": {
-    "node": "7.4"
+  "node": "0.10.41",
+  "npm": "1.4.29"
   },
   "license": "BSD-3-Clause",
   "devDependencies": {
