@@ -3,9 +3,7 @@
   "version": "0.63.0",
   "private": true,
   "scripts": {
-    "start:dev": "nodemon ./bin/www",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+   "start": "node customActivity.js"
   },
   "author": "SalesForce Marketing Cloud, Dev Advocate Team",
   "contributors": [
