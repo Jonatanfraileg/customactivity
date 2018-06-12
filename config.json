@@ -26,21 +26,21 @@
                     "foundSignupDate": ""
                 }
             ],
-            "url": "https://custom-activity-may18.herokuapp.com/execute"
+            "url": "https://telegramactivity.herokuapp.com/execute"
         }
     },
     "configurationArguments": {
        "save": {
-           "url": "https://custom-activity-may18.herokuapp.com/save"
+           "url": "https://telegramactivity.herokuapp.com/save"
        },
        "publish": {
-           "url": "https://custom-activity-may18.herokuapp.com/publish"
+           "url": "https://telegramactivity.herokuapp.com/publish"
        },
        "validate": {
-           "url": "https://custom-activity-may18.herokuapp.com/validate"
+           "url": "https://telegramactivity.herokuapp.com/validate"
        },
        "stop": {
-           "url": "https://custom-activity-may18.herokuapp.com/stop"
+           "url": "https://telegramactivity.herokuapp.com/stop"
        }
     },
     "wizardSteps": [
